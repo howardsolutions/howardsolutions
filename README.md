@@ -1,4 +1,4 @@
-## Hi there 👋
+## HEY there, I'm Howard 👋 
 
 <!--
 **howardsolutions/howardsolutions** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🧑‍💻 I'm a Product Software Engineer, a progress-driven & self-taught fast learner with a constant thirst for technical improvement. <br />
+💪 I Love building software to solve real-world problems for businesses and customers with a “Product-minded” mental model in mind. <br />
+👨‍🎨 Also love building UI at scale to improve User Experiences
+
+😁 I work across the entire stack: Frontend, Backend, but I specialize in Frontend (JavaScript, Typescript, React, Next, Performance and Accessibility, and more).
+
+🌱  I’m currently learning: UI UX Web Design, diving deep into backend engineering, dev-ops, and cloud, then ML...
+🔭  I have a [technical blog](https://howardphung.hashnode.dev/) where I write about fullstack web development, and more.
