@@ -7,7 +7,7 @@
 
 😁 I work across the entire stack: Frontend, Backend, but I specialize in Frontend (JavaScript, Typescript, React, Next, Performance and Accessibility, and more).
 
-🌱  I’m currently learning: UI UX Web Design, diving deep into backend engineering, dev-ops, and cloud, then ML...
+🌱  I’m currently learning: UI UX Web Design, diving deep into backend engineering, dev-ops, and cloud, then ML... <br />
 🔭  I have a [technical blog](https://howardphung.hashnode.dev/) where I write about fullstack web development, and more.
 
 ## 🌐 Socials:
