@@ -5,10 +5,10 @@
 💪 I Love building software to solve real-world problems for businesses and customers with a “Product-minded” mental model in mind. <br />
 👨‍🎨 Also love building UI at scale to improve User Experiences
 
-😁 I work across the entire stack: Frontend, Backend, but I specialize in Frontend (JavaScript, Typescript, React, Next, Performance and Accessibility, and more).
+😁 I work across the entire stack: Frontend, Backend, but I specialize in Frontend (JavaScript, Typescript, React, Next, Performance, and more).
 
-🌱  I’m currently learning: UI UX Web Design, diving deep into backend engineering, dev-ops, and cloud, then ML... <br />
-🔭  I have a [technical blog](https://howardphung.hashnode.dev/) where I write about fullstack web development, and more.
+🌱  I’m currently learning: UI UX Web Design, Accessibility, diving deep into backend engineering, dev-ops, and cloud, then ML... <br />
+🔭  I have a [technical blog](https://howardphung.hashnode.dev/) where I write about full-stack web development and more.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/howardphung30) 
