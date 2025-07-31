@@ -1,5 +1,8 @@
 ## HEY there, I'm Howard 👋 
 
+<p align="right">
+  <img src="https://api.boot.dev/v1/users/public/a46a6566-6b3a-49d4-9e6a-3b4c03de3cf7/thumbnail" >
+</p>
 
 🧑‍💻 I'm a Product Software Engineer, a progress-driven & self-taught fast learner with a constant thirst for technical improvement. <br />
 💪 I Love building software to solve real-world problems for businesses and customers with a “Product-minded” mental model in mind. <br />
