@@ -1,6 +1,6 @@
 ## HEY there, I'm Howard 👋 
 
-<p align="right">
+<p align="center">
   <img src="https://api.boot.dev/v1/users/public/a46a6566-6b3a-49d4-9e6a-3b4c03de3cf7/thumbnail" >
 </p>
 
